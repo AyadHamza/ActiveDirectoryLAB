@@ -23,11 +23,11 @@ Project consists of two virtual machines running on VirtualBox, an active direct
 
 <p align="center">
 Lauch Virtual Box: <br/>
-<img src="https://imgur.com/BUwwQvg" height="80%" width="80%" alt="Lauch Virtual Box"/>
+<img src=https://imgur.com/GJsFqRc height="80%" width="80%" alt="Lauch Virtual Box"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/GJsFqRc height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
